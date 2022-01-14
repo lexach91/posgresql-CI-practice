@@ -1,8 +1,3 @@
-from inspect import trace
-from tkinter import S
-from django import db
-from matplotlib import artist
-from more_itertools import first, last
 from sqlalchemy import (
     create_engine, Column, Integer, String
 )

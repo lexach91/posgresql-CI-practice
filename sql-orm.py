@@ -1,6 +1,3 @@
-from inspect import trace
-from django import db
-from matplotlib import artist
 from sqlalchemy import (
     create_engine, Column, Integer, String, Float, ForeignKey
 )
