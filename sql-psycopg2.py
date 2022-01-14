@@ -1,5 +1,3 @@
-from unittest import result
-from matplotlib.pyplot import connect
 import psycopg2
 
 
