@@ -132,6 +132,8 @@ aleksei_konovalov = Programmer(
 # else:
 #     print("No records found")
 
+
+
 programmers = session.query(Programmer)
 for programmer in programmers:
     print(
